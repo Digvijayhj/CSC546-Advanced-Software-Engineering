@@ -13,8 +13,8 @@ At its core, Git operates on a local repository, including all your project's fi
 
 #### Diagrams
 
-- Insert diagram of Git basic operations: `![Git Basic Operations](https://graphviz.org/Gallery/directed/git.svg)`
-- Insert diagram of Git workflow from local to remote: `![Git Workflow](https://res.cloudinary.com/practicaldev/image/fetch/s--M_fHUEqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png)`
+![Git Basic Operations](https://graphviz.org/Gallery/directed/git.svg "Git Basic Operations")
+![Git Workflow](https://res.cloudinary.com/practicaldev/image/fetch/s--M_fHUEqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png "Git Workflow")
 
 ## Git Commands
 
