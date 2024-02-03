@@ -1,2 +1,2 @@
-# CSC546-Advanced-Software-Engineering
-CSC 546 - Advanced Software Engineering
+# AdvancedS Software Engineering
+Advanced Software Engineeringn - CSC 546
