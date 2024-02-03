@@ -1,0 +1,4 @@
+Understanding Git: A Version Control System
+
+Git is a powerful version control system that enables developers to track and manage changes to their codebase efficiently. It supports collaboration, allowing multiple developers to work on the same project without conflicting changes. With Git, you can revert files back to a previous state, compare changes over time, and maintain multiple versions of a project simultaneously. Its distributed nature means that every developer works with a full history of the project, enhancing speed and data integrity.
+
