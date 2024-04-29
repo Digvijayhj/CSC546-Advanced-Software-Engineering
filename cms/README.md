@@ -41,7 +41,7 @@ The database schema diagram provides a detailed view of the tables, their fields
 - **Posts to Categories**: Many-to-many (implemented via a post_categories join table).
 - **Users to Roles**: Many-to-one (a user has one role, but a role can be assigned to many users).
 
-[er-diagram]!(https://github.com/Digvijayhj/CSC581-Advanced-Software-Engineering/blob/master/cms/erd-wordpress.png?raw=true)
+![er-diagram](https://github.com/Digvijayhj/CSC581-Advanced-Software-Engineering/blob/master/cms/erd-wordpress.png?raw=true)
 
 ### API Documentation
 
@@ -70,11 +70,11 @@ UI wireframes provide a visual mockup of the CMS interface, showing the layout a
 3. **Content Editor**: Features a rich text editor for writing or editing posts, with options to add images, links, and format text.
 4. **Content Management**: Shows a list of all posts with options to edit, delete, or filter them based on categories.
 
-[wireframe-of-wordpress]!(https://github.com/Digvijayhj/CSC581-Advanced-Software-Engineering/blob/master/cms/wordpress-site-structure1%20(1).jpg?raw=true)
+![wireframe-of-wordpress](https://github.com/Digvijayhj/CSC581-Advanced-Software-Engineering/blob/master/cms/wordpress-site-structure1%20(1).jpg?raw=true)
 
-[wireframe-flow]!(https://github.com/Digvijayhj/CSC581-Advanced-Software-Engineering/blob/master/cms/wireframe-library-insert.gif?raw=true)
+![wireframe-flow](https://github.com/Digvijayhj/CSC581-Advanced-Software-Engineering/blob/master/cms/wireframe-library-insert.gif?raw=true)
 
-[wirefram-example]!(https://github.com/Digvijayhj/CSC581-Advanced-Software-Engineering/blob/master/cms/Screen-Shot-2021-07-16-at-5.50.57-PM-min-1024x598.png?raw=true)
+![wirefram-example](https://github.com/Digvijayhj/CSC581-Advanced-Software-Engineering/blob/master/cms/Screen-Shot-2021-07-16-at-5.50.57-PM-min-1024x598.png?raw=true)
 
 ## Security Considerations
 
